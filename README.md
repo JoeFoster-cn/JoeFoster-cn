@@ -1,18 +1,11 @@
 ### Hi there 👋
 
+I'm Joe Foster and I am a senior member of the team at [Bold Management](www.bold-management.com).  I'm currently enrolled on a 12-week [CodeNation](www.wearecodenation.com) bootcamp learning as much as possible about coding!
+
+- 💬 Ask me about anything related to [LFC](https://www.liverpoolfc.com/)!
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/joe-foster-14b9b5106/)
+- ⚡ Fun fact: I'm ambidextrous (kind of...)    
+
+![Pink Floyd](https://github.com/joefoster-cn/joefoster-cn/img/img1.jpg)
 
 
-
-Hi, I'm Joe!
-
-- 🔭 I’m currently working on a CodeNation 12 week bootcamp!
-- 🌱 I’m currently learning multiple coding languages. 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-TEST TEST
