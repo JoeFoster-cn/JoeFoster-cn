@@ -27,6 +27,6 @@ I'm currently enrolled on a 12-week [CodeNation](https://www.wearecodenation.com
 const orderPizza = () => {}
 ```
 
-![Clouds](https://github.com/JoeFoster-cn/JoeFoster-cn/blob/main/img/img2.jpg)
+![Pizza](https://github.com/JoeFoster-cn/JoeFoster-cn/blob/main/img/img3.gif)
 
 
