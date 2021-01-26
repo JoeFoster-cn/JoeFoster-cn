@@ -16,13 +16,16 @@ I'm currently enrolled on a 12-week [CodeNation](https://www.wearecodenation.com
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/joe-foster-14b9b5106/)
 - ⚡ Fun fact: I'm ambidextrous (~~kind of...~~)  
 
-:clipboard:I'm working my way through the coding world and have got a basic grasp of:
+:clipboard: I'm working my way through the coding world and have got a basic grasp of:
 - [x] Javascript
 - [x] HTML
 - [x] CSS
 - [x] Markdown
+- [x] Git
 
-
+```
+const orderPizza = () => {}
+```
 
 ![Clouds](https://github.com/JoeFoster-cn/JoeFoster-cn/blob/main/img/img2.jpg)
 
