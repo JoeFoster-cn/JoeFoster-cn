@@ -22,6 +22,8 @@ I'm currently enrolled on a 12-week [CodeNation](https://www.wearecodenation.com
 - [x] CSS
 - [x] Markdown
 - [x] Git
+- [x] React
+- [x] Express
 
 ```
 const orderPizza = () => {}
